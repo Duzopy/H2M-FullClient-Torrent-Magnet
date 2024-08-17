@@ -7,3 +7,7 @@ Safe Hash / h2m-mod.exe
 ```
 3375CBF19F872AFAA64E78520E73B95E14095AD02F8A36416838395DDCCE91F3
 ```
+H2M Maps
+```
+https://drive.google.com/drive/folders/1p0nAUmflyAlBlihuA0qnwyglcIX-xWhg
+```
